@@ -1,1 +1,1 @@
-this website which i am creating is harmless https://computesheep.github.io/computesheep/ is a prank website. if you want to stop that virus go to task manager click on details and fins wsscript and end process tree
+this website which i am creating is harmless https://computesheep.github.io/computesheep/ is a prank website. if you want to stop that virus go to task manager click on details and find wsscript and end process tree
